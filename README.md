@@ -1,4 +1,8 @@
-## Hi there 👋
+## bem vindo ao meu perfil 🥇
+
+sou estudante na alura
+estou me desenvolvendo na linguagem javascript
+uso esse espaço para estudos
 
 <!--
 **evepalharine04/evepalharine04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
